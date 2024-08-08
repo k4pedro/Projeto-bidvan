@@ -1,0 +1,123 @@
+*{
+    margin:0;
+}
+
+body{
+    background: #E6DFCC;
+}
+
+#bidvan{
+    color: #a75f3b;
+    font-size: 100px;
+    text-align: center;
+    font-family: '';
+}
+
+#uma-proposta-de-aplicativo-para-fretamento-de-transporte-coletivo{
+    color: white;
+    text-shadow: black;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 0.5rem;
+    background-color: #a75f3b;
+    padding: 0.25rem 0.75rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.st-emotion-cache-6qob1r{
+    background-color: #412517;
+}
+
+.st-emotion-cache-1avcm0n{
+    background-color: #E6DFCC;
+}
+
+.st-emotion-cache-ffhzg2{
+    background-color: #e6dfcc;
+}
+
+div img{
+    margin-left: 300px;
+    /* width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+    object-fit: cover;
+    background-size: 300%;
+    display: block;
+    text-align: center; */
+}
+
+
+.st-emotion-cache-fblp2m {
+    color: black;
+}
+.st-emotion-cache-1wbqy5l{
+    color: black;
+}
+
+.st-emotion-cache-q8sbsg{
+    color: black;
+}
+
+.st-emotion-cache-nahz7x{
+    color: black;
+}
+
+#st-emotion-cache-q8sbsg.e1nzilvr5{
+    color: white;
+}
+
+label div p{
+    color: white;
+}
+/* ###texto da caixa### */
+.st-emotion-cache-x78sv8 p {    
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+
+}
+/* ###caixa### */
+.st-emotion-cache-19rxjzo{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 1500px;
+    font-weight: 1500px;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
+    min-height: 38.4px;
+    margin: 30px;
+    line-height: 1.6;
+    color: inherit;
+    width: 600px;
+    user-select: none;
+    background-color: #412517;
+    border-color: #412517;
+}
+
+.st-emotion-cache-x78sv8 p:hover{
+    color:#7acec2;
+}
+
+.st-emotion-cache-x78sv8 e1nzilvr5{
+    color: #7acec2;
+}
+.st-emotion-cache-q8sbsg p{
+    color: black;
+    font-size: 20px;
+}
+p, ol, ul, dl {
+    /* margin: 0px 0px 1rem; */
+    /* padding: 3px; */
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+div button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
